@@ -13,7 +13,7 @@ The working and features of app:
 |---|---|
 |SplashScreen.js|It’s the very first screen which opens when app executes. It determines whether the user is logged in or not. If the user is not logged in It navigates to the Auth.js component (Login screen) else it navigates to the Home.js component (Dashboard screen).|
 |Auth.js|Login screen where user can put email address and password to sign in the app.|
-|Home.js|It’s provides the dashboard screen where user can do following things: -View Offices -View Seat plans specific to selected office -Press button and edit office list -Press button and edit seat plans|
+|Home.js|It’s provides the dashboard screen where user can do following things: <br />-View Offices <br />-View Seat plans specific to selected office <br />-Press button and edit office list <br />-Press button and edit seat plans|
 |AddOffices.js|In this component user can edit or add new offices.|
 |AddSeatPlan.js|To add and edit seat plans|
 |AddSeatPlanDetails.js|To add and edit seat allocation details of a seat plan.|
