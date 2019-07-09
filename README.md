@@ -9,10 +9,10 @@ Proposed solution: To tackle this problem, we propose a mobile app where the org
 
 The working and features of app:
 
-Components
-Functionality
-SplashScreen.js
-It’s the very first screen which opens when app executes. It determines whether the user is logged in or not. If the user is not logged in It navigates to the Auth.js component (Login screen) else it navigates to the Home.js component (Dashboard screen).
+|Components|Functionality|
+|---|---|
+|SplashScreen.js|
+It’s the very first screen which opens when app executes. It determines whether the user is logged in or not. If the user is not logged in It navigates to the Auth.js component (Login screen) else it navigates to the Home.js component (Dashboard screen).|
 Auth.js
 Login screen where user can put email address and password to sign in the app.
 Home.js
